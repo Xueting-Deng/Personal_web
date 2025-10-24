@@ -106,7 +106,7 @@ export function TableOfContents({
   }
 
   return (
-    <div className={cn("w-72", className)}>
+    <div className={cn("w-62", className)}>
       <div className="border-border/50 bg-background/80 rounded-xl border p-5 shadow-2xl shadow-black/5 backdrop-blur-xl dark:shadow-black/20">
         {tocContent}
       </div>
