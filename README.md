@@ -4,6 +4,8 @@
 
 [![Demo Screenshot](./asset/sceenshot.png)](https://www.zangwei.dev/)
 
+[Documentation →](https://docs-nextjs-portfolio-blog-research.zangwei.dev/)
+
 ## Demo
 
 - This repo on Vercel: [https://nextjs-portfolio-blog-research.vercel.app/](https://nextjs-portfolio-blog-research.vercel.app/)
